@@ -1,0 +1,10 @@
+---
+name: sample
+lang: ko
+items:
+ - name: Martha
+   wage: 1500
+   position: Developer
+ - name: Jim
+   wage: 1800
+   position: DevOps Engineer

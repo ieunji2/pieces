@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<category name="sample" lang="ko">
+	<name>Martha</name>
+	<wage>1,500</wage>
+	<position>Developer</position>
+	<name>Jim</name>
+	<wage>1,800</wage>
+	<position>DevOps Engineer</position>
+</category>
